@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/libreriajpa/persistencia/EditorialDAO.java</file>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/libreriajpa/entidades/Libro.java</file>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/libreriajpa/persistencia/LibroDAO.java</file>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/libreriajpa/servicio/AutorServicio.java</file>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/libreriajpa/servicio/EditorialServicio.java</file>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/libreriajpa/entidades/Editorial.java</file>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/libreriajpa/LibreriaJPA.java</file>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/libreriajpa/persistencia/DAO.java</file>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/libreriajpa/entidades/Autor.java</file>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/libreriajpa/persistencia/AutorDAO.java</file>
+            <file>file:/C:/Users/Maugouber/Documents/NetBeansProjects/UMLDiagrams/Class%20Diagrams/LibreriaJPA/src/libreriajpa/servicio/LibroServicio.java</file>
+        </group>
+    </open-files>
+</project-private>
